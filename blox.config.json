@@ -1,0 +1,1 @@
+{"name":"dhfghfdgdhgdhjfg","type":"function","source":{"https":"https://github.com/neohire/_dd_dhfghfdgdhgdhjfg","ssh":"git@github.com:neohire/_dd_dhfghfdgdhgdhjfg.git"},"language":"nodejs","start":"npx webpack-dev-server","build":"npx webpack","postPull":"npm i"}
